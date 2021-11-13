@@ -1,3 +1,3 @@
 # Daily_code
-Code waht you want!
+Code what you want!
 Cheers!
